@@ -18,7 +18,7 @@ grippe, typhoide) a partir des symptomes du patient.
 
 ## Auteur
 
-Moussa Diallo - L2 GLSI - ESP/UCAD
+Mohamadou Ndiouma Diop - L2 GLSI - ESP/UCAD
 
 ## Cours
 
